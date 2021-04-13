@@ -1,81 +1,87 @@
 # Newsletter 
 Prepare and store the EthBuilders Newsletter \
-By the community, for the community ❤️ 
+❤️  By the community, for the community ❤️ 
 
-👷 👷‍♀️ 🏗️
+👷 👷‍♀️ 🏗️ 
 
 # Newsletter
 
 [Contribute to EthBuilders]()
 
-Prepare and store our newsletter.
+🚀 Prepare and store our community newsletter.
 
-- [Idea](#idea)
+- [About](#about)
 - [Contribute](#contribute)
 - [This repo](#this-repo)
   - [Process for writing the Newsletter](#process-for-writing-the-newsletter)
   - [Styleguide & Suggestions](#styleguide-&-suggestions)
 
-### 📰 [Subscribe to the EthBuilders.](https://www.meetup.com/ethbuilders/) 📰
-Subscribe to the Meetup. We send out our newsletters via Meetup for now.
+### 📰 subscribe to the EthBuilders.
+[Subscribe to the Meetup](https://www.meetup.com/ethbuilders/). We send out our newsletters via Meetup for now.
 
-## Idea
+## About
 
-Similar to the [Rust community](https://this-week-in-rust.org/) and [Protocol Lab's community](https://github.com/ipfs/newsletter) we want to have a newsletter that talks about what was done in the past week by various contributors. 
+Similar to the [Rust](https://this-week-in-rust.org/) and [Protocol Lab's (makers of IPFS)](https://github.com/ipfs/newsletter) communities, we have a grassroots newsletter that talks about the achievement of our community.
 
 This will help:
-- Keep people in the loop about what is going on in the Ethereum and EthBuilders ecosystem
-- Tell active contributors when new tools or projects are available.
-- Kepp the community informed with the most up to date education.
-- Attribute developers who have contributed to open-source software related to IPFS.
+- Highlight cool projects made by our community
+- Help keep the community informed with the most up to date education via grassroots effort
+- Keep people in the loop about what is going on in the Ethereum.
+- Give shouts
+- Post job postings
 
 ## Contribute
 
-The Newsletter takes a _lot of work_. This work can best be done by being distributed. If you know of anything cool that happens in a given week, anything that other people might be excited about, add it to the newsletter by adding a comment about it to the PR or Issue for that week's newsletter.
+A distributed newsletter is a good newsletter. 
 
-Here are the steps to do that:
- - See something cool, or make something cool.
- - Go to the open PR for that week's newsletter.
- - Add a comment about the thing. Add a link, if possible.
- - Revel in the knowledge you are great.
+You can add to sections like: 
+- 👨‍🎨 Show and Tell  
+Show off your cool projects to community. What did you build or learn this week? 
+- 🎟 Community Events  
+Other events coming up
+- 🔥 Cool Radar   
+What do you think is cool?
+- 📰 News  
+Upcoming news, DeFi updates and more
+- 🕵️‍♂️ Hack of the Week  
+Post Mortems, security issues and 🌶 spicy takes
+- 👩‍💻 Updates  
+Updates to any of our community open source projects
+- 🤑 Jobs  
+Place job postings with full job descriptions. 
 
-Also, please help us out if you think the roundup could be better! [Open an issue!](https://github.com/EthBuilders/newsletter)
+### Contribution process:
+- See or make something cool.  
+- If a new newsletter:  
+  - Open a Pull Request, copy `./template.md`.
+  - Add it to `/published` 
+  - Rename using naming convention similar to: `2021-jan-01.md`. 
+  - Our newsletters run Monday to Sunday, so start with a Monday date.
+- If an existing newsletter:
+  - Open a Pull Request
+  - Collect feedback via the comment and iterate.
+- Once accepted:
+  - We will post to Medium
+  - Tweet it out from your Twitter!
 
-## This repo
+💡 Got an idea to make the newsletter better? ♥️ [Open an issue!](https://github.com/EthBuilders/newsletter)
 
-- Stores the final versions for past newsletters, posted elsewhere - the blog, email, and so on;
-- Tracks issues related to the roundups in the [issues](https://github.com/EthBuilders/newsletter);
+## About this Repo
+
+- Stores the final versions for past newsletters.
+- Tracks issues related to the newsletters in the [issues](https://github.com/EthBuilders/newsletter)
 - Stores tools used to make the roundups
 - Is used to collaborate on new issues. 
 - Sumbit a PR to insert a contribution! Let us know what you did this week!
 
-
-### Process for writing the Newsletter
-
-- If a new Newletter:
-  - Open a Pull Request to create a new Markdown formatted file in the `published` folder. 
-  - The naming format should be as in this example: `002-2016-jan-5.md`, for the newsletter of the sprint starting January 5th in 2016.
-- If an existing newsletter:
-  - Open a Pull Request
-  - Collect feedback via the comment and iterate.
-- Images
-  - TBD
-- The travis build for the branch completes after each push:
-  - TBD
-- Crosspost
-  - Twitter: post the blog link after it is merged and published.
-  - Other locations later
-
 ### Styleguide & Suggestions
 
-- Use people's GitHub handles and not their real names. Example: @tesla809, and not "Anthony Albertorio".
-- Try and include everyone who has made a PR or commented on an issue. Often, issue comments are _major, pivotal_ contributions, and those should be captured!
-- Highlight, don't just summarize; a lot of work may be trivial, and higher signal is better noise.
-- In general, err on the side of giving credit to everyone involved. When people do the lion's share, mention them first. (Or even something like "@skellet0r, @chanhosuh and several others ... " if relevant. In the case of a release, you can link to the changelog which credits individually... but don't sweat this.)
+- Use people's GitHub handles or their real names if they choose to. Example: "Anthony Albertorio", @tesla809.
+- Try and include everyone who has made a PR or commented on an issue.
+- Highlight, don't just summarize. Make a great attempt at description.
+- In general, err on the side of giving credit to everyone involved. When people do the lion's share, mention them first. Something like "@skellet0r, @chanhosuh, @tesla809, etc..."
 - In general, try linking larger phrases instead of single words. They're easier to notice and click on links.
-- In general, try highlighting _why_ something is cool. Call attention to things if:
-    1. it is done and people should know about
-    2. there is a call to action -- opinions are needed.
-    3. it is specially useful to draw attention to something in the newsletter.
+- In general, try highlighting **why** something is cool. 
+- Have fun!
 
 
