@@ -1,5 +1,7 @@
 # 👷‍♂️ EthBuilders Newsletter #__Issue__
 
+## Hey hey hey
+
 🛠 [EthBuilders](https://www.meetup.com/ethbuilders/) is a community dedicated to building Ethereum and related tech by provide the space where people can learn by doing. 
 
 🧭 Our Community’s Goal: Build stuff! Break Stuff! Meet people. Have fun.
@@ -38,6 +40,8 @@ Updates to any of our community open source projects
 🌈 🦄 Get that magical internet money.  
 Post Jobs here with real descriptions of positions.
 
+## 📚 Learning
+Add cool things to read here.
 
 ## 🤝 Contributors
 
@@ -49,6 +53,11 @@ between __Date-start__ (Block Number) and __Date-End__.
 This newsletter is also a community effort. If you have cool things you'd like to share for the next newsletter, create a pull request in [issues](https://github.com/EthBuilders/newsletter/compare)!
 
 🚀 We'll aim to include it in the next issue.
+
+## 🖼 Memes of the week
+Meme Lordz of de worldz, Unite. Insert your art or links to it here.
+
+## 👋 Yeet
 
 Thanks, and see you next time!
 
