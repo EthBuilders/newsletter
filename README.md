@@ -50,6 +50,9 @@ Updates to any of our community open source projects
 - 🤑 Jobs  
 Place job postings with full job descriptions. 
 
+👨‍💻 What to learn how to use Github? 
+👩‍🏫 Learn about the [command line](https://www.codecademy.com/learn/learn-the-command-line). Then see this [great video Github for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&vl=en) by [Dan Shiffman](https://shiffman.net/) or take this [Git course](https://www.codecademy.com/learn/learn-git).
+
 ### Contribution process:
 - See or make something cool.  
 - If a new newsletter:  
